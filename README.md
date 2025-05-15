@@ -5,3 +5,6 @@
 # chatbot_sound
 # memory_store (saves action to txt file)
 # added randomizing, memory storage and recall, and sentiment detection methods
+
+# files were added to miscellaneous, i created them and coded again
+# restructured the sentiment detection and randomizing methods
