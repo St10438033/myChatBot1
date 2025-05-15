@@ -45,6 +45,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="chatbot_backend.cs" />
+    <Compile Include="chatbot_logo.cs" />
+    <Compile Include="chatbot_Sound.cs" />
+    <Compile Include="memory_storage.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
