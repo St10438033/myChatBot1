@@ -269,7 +269,7 @@ namespace myChatBot1
 
                         break;
                     }
-                }
+                } //end while
                 
 
                 Console.ResetColor();
